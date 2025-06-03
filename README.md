@@ -1,1 +1,1 @@
-# Java
+# Welcome to Blazing Codes
